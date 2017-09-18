@@ -1,0 +1,9 @@
+{
+  "commands": {
+    "Deploy": {
+      "fileName": "Deploy.cmd",
+      "workingDirectory": ".",
+      "arguments": ""
+    },
+  }
+}

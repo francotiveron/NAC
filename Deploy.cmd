@@ -1,0 +1,2 @@
+C:\WINDOWS\SYSTEM32\xcopy C:\Project\NAC\Field\NacFieldCitect\bin\Debug \\203.15.178.7\nac /Y /D
+C:\WINDOWS\SYSTEM32\xcopy C:\Project\NAC\NacEngine\bin\Debug \\203.15.178.7\nac /Y /D /EXCLUDE:deployexclude.txt

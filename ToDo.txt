@@ -1,0 +1,29 @@
+- Access log
++ Code editor
++ extend cleanup to If block;
++ implement List reading in citect proxy
++ ??? in ULONG tags in tag browser
++ Trend redefine ranges for press (see ASRi manual)
++ Expand/Optimize Citect Field accessor (redundandcy)
++ restart field without restarting engine (& WPF Exception)
++ Copy&Paste
++ Close Engine, Error on engine not connected (and remove)
++ Change Tree position for project/section/task
++ Exception on dblclick
++ Labels in sectioneditor
++ Descriptions on tags
++ filter in tags editor
++ Expression evaluator more complex (e.g. - not supported)
++ WCF Client
++ Fix fuzzy set/rule editors
++ Save/Open
++ field dialog: multiple tag selection, Check box click only once, tag type and description, block browse, Query button auto, Esc Cancel, toolbar borders among buttons
++ CompilationNeeded in BlockFuzzy (Timestamp)
++ Develop Log (limit caches, catch exceptions, main exceptions like wpf, log in error)
++ Tag value quality management
++ Addresses and path on IPs
++ Subroutine
++ Online for section viewer, different colors
++ IF block
++ Fuzzy
++ Copy/Paste

@@ -1,0 +1,4 @@
+Create Everyone full Share C:\NAC
+Copy NAC (see Deploy.cmd)
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil NACEngine.exe from cmd(Admin)
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil NACFieldCitect.exe from cmd(Admin)

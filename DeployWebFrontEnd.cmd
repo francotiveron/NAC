@@ -1,0 +1,1 @@
+C:\WINDOWS\SYSTEM32\xcopy C:\Project\NAC\NacXbapHost\Publish\*.* \\aunpmap3\NAC /Y /D /S
