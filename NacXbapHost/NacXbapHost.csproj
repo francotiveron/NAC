@@ -18,7 +18,7 @@
     <HostInBrowser>true</HostInBrowser>
     <TargetZone>Internet</TargetZone>
     <GenerateManifests>true</GenerateManifests>
-    <SignManifests>True</SignManifests>
+    <SignManifests>false</SignManifests>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <HockeyAppResourceId>194fa11003fa416a8f01def87b41f274</HockeyAppResourceId>
     <PublishUrl>C:\Project\NAC\NacXbapHost\Publish\</PublishUrl>
@@ -37,7 +37,7 @@
     <SuiteName>NAC</SuiteName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>24</ApplicationRevision>
+    <ApplicationRevision>25</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -114,7 +114,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="NacXbapHost_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

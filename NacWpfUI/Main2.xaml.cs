@@ -199,8 +199,9 @@ namespace Nac.Wpf.UI {
         }
 
         private void valuetextbox_PreviewTextInput(object sender, TextCompositionEventArgs e) {
-            if (!char.IsDigit(e.Text, e.Text.Length - 1))
-                e.Handled = true;
+            TextBox t = (TextBox)sender;
+            double d;
+            e.Handled = !double.TryParse(t.Text + e.Text, out d);
         }
 
         private void Load_Click(object sender, RoutedEventArgs e) {
